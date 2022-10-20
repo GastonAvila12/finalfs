@@ -20,7 +20,7 @@ import './homeBody.css'
         <div className="col-md-12 col-lg-10 m-auto align-center">
             <h1 className="mbr-section-title mbr-white mbr-fonts-style mb-3 display-1"><br></br><strong><strong>SERVICIO TECNICO</strong></strong><br></br></h1>
             <p className="mbr-text mbr-white mbr-fonts-style display-7">Resolvemos cualquier conflicto Todo inconveniente o problema con su computadora ya sea pc o notebook le brindamos solución.</p>
-            <div className="mbr-section-btn align-center"><a className="btn btn-danger display-4" href="https://gastonavila12.github.io/GASTU/trabajos.html">Trabajos realizados</a></div>
+            <div className="mbr-section-btn align-center"><a className="btn btn-danger display-4" href="https://gastonavila12.github.io/gastusoluciones/trabajos.html">Trabajos realizados</a></div>
 
             <div className="row pt-5 justify-content-center">
                 <div className="col-12 col-md-6 col-lg-3">
